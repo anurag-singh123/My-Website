@@ -36,12 +36,12 @@ hr{
     margin: 100px auto;
 }
 
-a{
+/* a{
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
-}
+} */
 
 a:hover{
     color: #eaf6f6;
@@ -112,6 +112,9 @@ a:hover{
 
 .footer-link{
     color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
 }
 
 .my-image{
@@ -147,4 +150,11 @@ a:hover{
 
   .icon-image{
     width: 3%;
+  }
+
+  .project{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px;
+    text-decoration: none;
   }
